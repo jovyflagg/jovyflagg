@@ -1,6 +1,6 @@
 # Hi, I'm Jovy! Welcome to my page  👋
 
-## I'm a Developer, UX Designer, and a Makeup Artist
+## I'm a UX/UI Engineer with a Design experience
 - 👩🏻‍💻🎨 UX/UI Designer and React (Frontend) Developer (6+ Years)
 - 🛒 Shopify Freelance Developer... Let's connect! 
 - 💄 I also enjoy being a Makeup Artist for weddings  
